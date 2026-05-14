@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Riz7886.github.io/resources-k6jro5/sitemap.xml
